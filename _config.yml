@@ -11,8 +11,8 @@ github_repo: "https://github.com/LeonAuditore/LeonAuditore.github.io.git" # you 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "The miracle appear in bad luck."
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "二次元能不能给爷死（狗头）"
+sidebar-avatar: /img/head_im_axu.PNG      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
