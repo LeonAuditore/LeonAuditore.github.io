@@ -1,17 +1,17 @@
 # Site settings
-title: His Blog
-SEOTitle: 风雪夜归人的博客 | His Blog
+title: Emiya Blog
+SEOTitle: 风雪夜归人的博客 | Emiya Blog
 header-img: img/post-bg-desk.jpg
 email: 1633480592@qq.com
 description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 风雪夜归人的博客, qiubaiying, LeonAuditore, iOS, Apple, iPhone"
+keyword: "Emiya, Emiya Blog, 风雪夜归人的博客, Emiya Sakura, LeonAuditore, iOS, Apple, iPhone"
 url: "LeonAuditore.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/LeonAuditore/LeonAuditore.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "太阳照常升起"
+sidebar-about-description: "The miracle appear in bad luck."
 sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
