@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      [转载]新计算机架构，黄金十年爆发！
+title:      【载新】计算机架构，黄金十年爆发！
 subtitle:   转载文章
 date:       2021-3-1
 author:     Write BY David Patterson && John Hennessy Translate by 新智元
@@ -18,6 +18,10 @@ tags:
 # 计算机体系结构将迎来一个新的黄金时代！
 
 2017年3月，计算机架构领域两位巨星级人物David Patterson与John Hennessy在斯坦福大学发表演讲时如是说。
+
+![]http://5b0988e595225.cdn.sohucs.com/images/20190131/aff08a0699a4415293911775769f9074.jpeg
+
+John Hennessy(左) 和David Patterson 拿着他们合著的《计算机体系架构：量化研究方法》，照片的拍摄时间大约是1991年。来源：ACM
 
 当时，Hennessy最知名的title是斯坦福大学前任校长，而Patterson则是伯克利的退休教授。他们1990年合著出版的《计算机体系架构：量化研究方法》被誉为领域“体系结构圣经”，培养和指导了无数处理器设计人才。
 
