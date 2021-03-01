@@ -1,7 +1,7 @@
 # Site settings
 title: Emiya Blog
 SEOTitle: 风雪夜归人的博客 | Emiya Blog
-header-img: img/post-bg-Yuri.jpg
+header-img: homepage.jpg
 email: 1633480592@qq.com
 description: "Every failure is leading towards success."
 keyword: "Emiya, Emiya Blog, 风雪夜归人的博客, Emiya Sakura, LeonAuditore, iOS, Apple, iPhone"
@@ -103,7 +103,7 @@ friends: [
         href: "http://zhengwuyang.com"
     },{
         title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        href: "http://www.jianshu.com"
     },{
         title: "Apple",
         href: "https://apple.com"
