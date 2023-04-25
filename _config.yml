@@ -1,10 +1,10 @@
 # Site settings
 title: Emiya Blog
-SEOTitle: 风雪夜归人的博客 | Emiya Blog
+SEOTitle: 急救知识 | First AID TIPS
 header-img: img/ROAME_147997_D8C2034D.jpg
 email: 1633480592@qq.com
-description: "Every failure is leading towards success."
-keyword: "Emiya, Emiya Blog, 风雪夜归人的博客, Emiya Sakura, LeonAuditore, iOS, Apple, iPhone"
+description: "机会永远留给有准备的人"
+keyword: "Emiya, First AID TIPS, 风雪夜归人的博客, Emiya Sakura, LeonAuditore, iOS, Apple, iPhone"
 url: "LeonAuditore.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/LeonAuditore/LeonAuditore.github.io.git" # you code repository
