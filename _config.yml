@@ -1,10 +1,10 @@
 # Site settings
-title: LeonAuditore的博客
-SEOTitle: 急救知识 | First AID TIPS
+title: 上官正明的博客
+SEOTitle: 上官正明 | 随手记
 header-img: img/post-bg-monika01.jpg
 email: shangguanzhengming@gmail.com
 description: "活人微死。"
-keyword: "Emiya, 风雪夜归人的博客, Emiya Sakura, LeonAuditore, iOS, Apple, iPhone"
+keyword: "Emiya, 上官正明的博客, Emiya Sakura, LeonAuditore, iOS, Apple, iPhone"
 url: "LeonAuditore.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/LeonAuditore/LeonAuditore.github.io.git" # you code repository
